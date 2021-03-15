@@ -1,7 +1,7 @@
 # mindmap
 {% simplemindmap %}
 ```markdown
-* simplemindmap
+* 心智圖 for 
     * config book.json
         * plugins
             * others
