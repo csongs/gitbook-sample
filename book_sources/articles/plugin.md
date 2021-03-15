@@ -14,7 +14,7 @@
                 * autoFit
                 * style
     * custom file.md
-        * ![](https://i.imgur.com/00bdDAR.png) 
+        * https://i.imgur.com/00bdDAR.png 
         * markdown
             * type
             * preset
