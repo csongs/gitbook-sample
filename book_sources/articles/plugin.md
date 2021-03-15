@@ -1,34 +1,36 @@
 # mindmap
-{% simplemindmap %}
+{% simplemindmap %,style={"height":"1000px"}}
 ```markdown
-* 心智圖 for 
-    * config book.json
-        * plugins
-            * others
-            * simple-mind-map
-        * pluginsConfig
-            * others
-            * simple-mind-map
-                * preset
-                * linkShape
-                * autoFit
-                * style
-    * custom file.md
-        * https://i.imgur.com/00bdDAR.png 
-        * markdown
-            * type
-            * preset
-            * linkShape
-            * autoFit
-            * style
-        * txtmap
-        * json
-        * mindmup
+* 利用靜態網頁產生心智圖
+    * 目的
+      * 想做紀錄整理
+      * 可以線上看 
+    * 產生靜態網頁工具
+        * gitbook
+            * simplemindmap
+            * [mindmaps](https://github.com/aleen42/gitbook-mindmaps)
+            * 缺點
+               * 僅支援文字,markdown語法都不支援
+               * 要編譯會花很久時間
+        * mddoc
+          * 沒找到可以用的plugin  
+        * hugo
+          * 沒找到可以用的plugin
+          * 中文搜尋需要支援
+    * 用markdown產生lib
+        * [Mark-Mind](https://github.com/MarkMindLtd/Mark-Mind/blob/main/README%20-%20zh.md)
+          * 套裝軟體
+          * 可以匯出markdown文件
+        * [markmap](https://github.com/gera2ld/markmap)
+            * markdown轉成心智圖
+            * 大都支援markdown原有語法,[demo](https://markmap.js.org/repl/)
+            * [vscode套件](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)
+
 ```
 {% endsimplemindmap %}
 
 
-## 目前使用plugin
+## gitbook目前使用plugin
 
 - 目前發現與心智圖套件有衝突,以下不同共用
   - "splitter"
