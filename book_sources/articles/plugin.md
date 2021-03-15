@@ -9,12 +9,12 @@
         * pluginsConfig
             * others
             * simple-mind-map
-                * ![](https://i.imgur.com/00bdDAR.png)
                 * preset
                 * linkShape
                 * autoFit
                 * style
     * custom file.md
+        * ![](https://i.imgur.com/00bdDAR.png) 
         * markdown
             * type
             * preset
