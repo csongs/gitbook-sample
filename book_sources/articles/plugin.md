@@ -9,7 +9,7 @@
         * pluginsConfig
             * others
             * simple-mind-map
-                * type
+                * type ![](https://i.imgur.com/00bdDAR.png)
                 * preset
                 * linkShape
                 * autoFit
