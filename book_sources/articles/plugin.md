@@ -1,5 +1,5 @@
 # mindmap
-{% simplemindmap style={"height":"00px"} %}
+{% simplemindmap style={"height":"500px"} %}
 ```markdown
 * 利用靜態網頁產生心智圖
     * 目的
