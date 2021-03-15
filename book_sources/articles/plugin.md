@@ -1,5 +1,5 @@
 # mindmap
-{% simplemindmap %,style={"height":"1000px"}}
+{% simplemindmap style={"height":"00px"} %}
 ```markdown
 * 利用靜態網頁產生心智圖
     * 目的
@@ -7,7 +7,7 @@
       * 可以線上看 
     * 產生靜態網頁工具
         * gitbook
-            * simplemindmap
+            * simplemindmap 
             * [mindmaps](https://github.com/aleen42/gitbook-mindmaps)
             * 缺點
                * 僅支援文字,markdown語法都不支援
